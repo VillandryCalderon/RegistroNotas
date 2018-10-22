@@ -1,0 +1,6 @@
+C:\Users\Alexis\Desktop\PRUEBAS\blog\Blog-MVC5-master\RegistrodeNotas\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Alexis\Desktop\PRUEBAS\blog\Blog-MVC5-master\RegistrodeNotas\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Alexis\Desktop\PRUEBAS\blog\Blog-MVC5-master\RegistrodeNotas\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\PRUEBAS\blog\Blog-MVC5-master\RegistrodeNotas\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Alexis\Desktop\PRUEBAS\blog\Blog-MVC5-master\RegistrodeNotas\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Alexis\Desktop\PRUEBAS\blog\Blog-MVC5-master\RegistrodeNotas\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
